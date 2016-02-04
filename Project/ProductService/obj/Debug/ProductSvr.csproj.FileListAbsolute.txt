@@ -1,0 +1,11 @@
+D:\Source Code\Product Trial\ProductProject\ProductService\bin\Debug\ProductSvr.dll
+D:\Source Code\Product Trial\ProductProject\ProductService\bin\Debug\ProductSvr.pdb
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.dll
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.pdb
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.csprojResolveAssemblyReference.cache
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\ProductSvr.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\ProductSvr.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.Properties.Resources.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.csproj.GenerateResource.Cache
+D:\Source Code\Trial\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.dll
+D:\Source Code\Trial\Product Trial\ProductProject\ProductService\obj\Debug\ProductSvr.pdb

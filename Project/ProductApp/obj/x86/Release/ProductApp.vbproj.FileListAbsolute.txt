@@ -1,0 +1,145 @@
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.exe.config
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.exe
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\DbLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.vbprojResolveAssemblyReference.cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemMasuk.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemPersediaan.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanViewer.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.MainForm.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.Resources.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLookUp.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormProduct.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormRoom.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormSupplier.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormUom.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.Room.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProduct.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProductInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProductModify.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoom.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoomInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoomModify.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplier.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplierInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplierModify.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUom.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUomInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUomModify.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormDeliver.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemKeluar.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormOrder.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormRetur.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliver.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverInputNew.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverModify.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrder.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrderInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrderModify.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRetur.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlReturInput.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.vbproj.GenerateResource.Cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.pdb
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.exe.config
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.exe
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.pdb
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductApp.xml
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ClientLibs.dll
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductSvr.dll
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\DbLibs.dll
+D:\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductSvr.pdb
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemMasuk.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemPersediaan.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanViewer.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.MainForm.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.Resources.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLookUp.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormProduct.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormRoom.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormSupplier.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormUom.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.Room.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProduct.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProductInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProductModify.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoom.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoomInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoomModify.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplier.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplierInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplierModify.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUom.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUomInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUomModify.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormDeliver.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemKeluar.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormOrder.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormRetur.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliver.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverInputNew.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverModify.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrder.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrderInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrderModify.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRetur.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlReturInput.resources
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.vbproj.GenerateResource.Cache
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.exe
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.xml
+D:\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductSvr.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\bin\Release\ProductSvr.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.dll.config
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.dll.config
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\ProductApp.xml
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.vbprojResolveAssemblyReference.cache
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemMasuk.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemPersediaan.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanViewer.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.MainForm.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.Resources.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLookUp.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormProduct.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormRoom.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormSupplier.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormUom.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.Room.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProduct.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProductInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlProductModify.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoom.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoomInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRoomModify.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplier.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplierInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlSupplierModify.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUom.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUomInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlUomModify.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormDeliver.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormLaporanItemKeluar.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormOrder.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.FormRetur.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliver.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverInputNew.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlDeliverModify.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrder.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrderInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlOrderModify.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlRetur.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.UserControlReturInput.resources
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.vbproj.GenerateResource.Cache
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.dll
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.xml
+D:\Source Code\Trial\Product Trial\ProductProject\ProductApp\obj\x86\Release\ProductApp.pdb

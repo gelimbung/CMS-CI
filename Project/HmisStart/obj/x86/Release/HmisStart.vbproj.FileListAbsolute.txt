@@ -1,0 +1,228 @@
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\HmisStart.exe
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\HmisStart.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\HmisStart.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\HmisStart.Resources.resources
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\HmisStart.exe
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\HmisStart.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\HmisStart.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\obj\x86\Release\HmisStart.Form1.resources
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\HmisStart.exe.config
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\DbLibs.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\UILibs.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\Ninject.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1Input.4.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\GlassButton.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\PISService.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\SessionInfo.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\Guifreaks.NavigationBar.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\CMAnimation.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\MultiColumnComboBox.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1Command.4.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\KernelEngine.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\UtilsLibs.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\vtExtender.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\ClientLibs.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\LoggingLibs.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\Guifreaks.Common.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\DbModule.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1List.4.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\log4net.dll
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\HmisTemplate.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\HmisTemplate.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\DbLibs.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\DbLibs.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\UILibs.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\UILibs.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\PISService.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\PISService.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\SessionInfo.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\SessionInfo.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1Command.4.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\KernelEngine.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\KernelEngine.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\UtilsLibs.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\UtilsLibs.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\LoggingLibs.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\DbModule.pdb
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\DbModule.xml
+D:\CODE_PROJECT\DOTNET\HMIS_TRIAL\HmisStart\bin\Release\C1.Win.C1List.4.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\HmisStart.exe.config
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.exe
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.xml
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\HmisStart.exe
+D:\RSDK\PROJECT\HmisStart\bin\Release\HmisStart.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\HmisStart.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\DbLibs.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\Ninject.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\UILibs.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1Input.4.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\GlassButton.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\PISService.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\SessionInfo.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\Guifreaks.NavigationBar.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\CMAnimation.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\MultiColumnComboBox.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1Command.4.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\KernelEngine.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\UtilsLibs.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\vtExtender.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\ClientLibs.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\LoggingLibs.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\Guifreaks.Common.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\DbModule.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1List.4.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\log4net.dll
+D:\RSDK\PROJECT\HmisStart\bin\Release\HmisTemplate.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\HmisTemplate.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\DbLibs.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\DbLibs.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\UILibs.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\UILibs.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\PISService.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\PISService.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\SessionInfo.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\SessionInfo.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1Command.4.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\KernelEngine.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\KernelEngine.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\UtilsLibs.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\UtilsLibs.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\LoggingLibs.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\DbModule.pdb
+D:\RSDK\PROJECT\HmisStart\bin\Release\DbModule.xml
+D:\RSDK\PROJECT\HmisStart\bin\Release\C1.Win.C1List.4.xml
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.vbprojResolveAssemblyReference.cache
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.Form1.resources
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.Resources.resources
+D:\RSDK\PROJECT\HmisStart\obj\x86\Release\HmisStart.vbproj.GenerateResource.Cache
+D:\Source Code\PROJECT\HmisStart\bin\Release\HmisStart.exe.config
+D:\Source Code\PROJECT\HmisStart\obj\x86\Release\HmisStart.exe
+D:\Source Code\PROJECT\HmisStart\obj\x86\Release\HmisStart.xml
+D:\Source Code\PROJECT\HmisStart\obj\x86\Release\HmisStart.pdb
+D:\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.exe.config
+D:\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.exe
+D:\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.pdb
+D:\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.xml
+D:\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\DbLibs.dll
+D:\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.Form1.resources
+D:\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.Resources.resources
+D:\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.vbproj.GenerateResource.Cache
+D:\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.exe
+D:\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.xml
+D:\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.exe.config
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.exe
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.Form1.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.Resources.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.vbproj.GenerateResource.Cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.exe
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\DbLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\Ninject.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\UILibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1Input.4.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\GlassButton.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\PISService.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\SessionInfo.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\Guifreaks.NavigationBar.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\CMAnimation.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\MultiColumnComboBox.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1Command.4.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\KernelEngine.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\UtilsLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\vtExtender.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\ClientLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\LoggingLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\Guifreaks.Common.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\DbModule.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1List.4.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\log4net.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisTemplate.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisTemplate.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\UILibs.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\UILibs.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\PISService.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\PISService.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\SessionInfo.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\SessionInfo.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1Command.4.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\KernelEngine.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\KernelEngine.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\UtilsLibs.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\UtilsLibs.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\LoggingLibs.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\DbModule.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\DbModule.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1List.4.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.vbprojResolveAssemblyReference.cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.exe.config
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.exe
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.exe
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\HmisStart.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\DbLibs.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\Ninject.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\UILibs.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1Input.4.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\GlassButton.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\PISService.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\SessionInfo.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\Guifreaks.NavigationBar.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\CMAnimation.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\MultiColumnComboBox.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1Command.4.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\KernelEngine.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\UtilsLibs.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\vtExtender.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\ClientLibs.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\LoggingLibs.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\Guifreaks.Common.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\DbModule.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1List.4.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\log4net.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\HmisTemplate.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\HmisTemplate.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\UILibs.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\UILibs.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\PISService.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\PISService.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\SessionInfo.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\SessionInfo.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1Command.4.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\KernelEngine.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\KernelEngine.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\UtilsLibs.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\UtilsLibs.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\LoggingLibs.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\DbModule.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\DbModule.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\bin\Release\C1.Win.C1List.4.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.vbprojResolveAssemblyReference.cache
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.Form1.resources
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.Resources.resources
+D:\Source Code\Trial\Product Trial\ProductProject\HmisStart\obj\x86\Release\HmisStart.vbproj.GenerateResource.Cache

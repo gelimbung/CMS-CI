@@ -1,0 +1,4 @@
+D:\Source Code\Product Trial\ProductProject\ProductService\bin\Release\ProductSvr.dll
+D:\Source Code\Product Trial\ProductProject\ProductService\bin\Release\ProductSvr.pdb
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductSvr.dll
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductSvr.pdb

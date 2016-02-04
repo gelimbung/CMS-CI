@@ -1,0 +1,120 @@
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HmisServer.exe.config
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HmisServer.exe
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HmisServer.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HmisServer.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\BridgeAskesService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\BridgeLIS.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Finance.Service.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HMISReportService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HRD.Service.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HRDSystem.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\MMService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PatInService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Pharmacy.Service.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PharSaleService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PISService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SirusFolioService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SirusPatientService.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbLibs.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Ninject.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\KernelEngine.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\LoggingLibs.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbConn.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\UILibs.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\UtilsLibs.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbModule.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\log4net.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\CMAnimation.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\vtExtender.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SessionInfo.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\ClientLibs.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1List.4.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\GlassButton.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\MultiColumnComboBox.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\BridgeAskesService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\BridgeLIS.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Finance.Service.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Finance.Service.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HMISReportService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HRD.Service.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HRD.Service.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HRDSystem.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\HRDSystem.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\MMService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\MMService.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PatInService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PatInService.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Pharmacy.Service.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\Pharmacy.Service.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PharSaleService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PISService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\PISService.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SirusFolioService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SirusPatientService.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbLibs.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbLibs.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\KernelEngine.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\KernelEngine.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\LoggingLibs.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\UILibs.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\UILibs.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\UtilsLibs.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\UtilsLibs.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbModule.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\DbModule.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SessionInfo.pdb
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\SessionInfo.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\C1.Win.C1List.4.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.vbprojResolveAssemblyReference.cache
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.FrmService.resources
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.Resources.resources
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.vbproj.GenerateResource.Cache
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.exe.licenses
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.exe
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.xml
+E:\@code_project\HMIS_BRIDGE\HmisServer\obj\x86\Debug\HmisServer.pdb
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.exe.config
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.exe
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.pdb
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.xml
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\ProductSvr.dll
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\DbLibs.dll
+D:\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\ProductSvr.pdb
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.vbprojResolveAssemblyReference.cache
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.FrmService.resources
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.Resources.resources
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.vbproj.GenerateResource.Cache
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.exe
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.xml
+D:\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.exe.config
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.exe
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\ProductSvr.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\DbLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\bin\Release\ProductSvr.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.vbprojResolveAssemblyReference.cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.FrmService.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.Resources.resources
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.vbproj.GenerateResource.Cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.exe
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.xml
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.FrmService.resources
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.Resources.resources
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.vbproj.GenerateResource.Cache
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.exe.config
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.exe
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.pdb
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\HmisServer.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\bin\Release\DbLibs.dll
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.exe
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.xml
+D:\Source Code\Trial\Product Trial\ProductProject\HmisServer\obj\x86\Debug\HmisServer.pdb

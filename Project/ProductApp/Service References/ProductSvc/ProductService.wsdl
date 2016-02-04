@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ProductService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="NetTcpBinding_IProductService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8081/ProductService?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8081/ProductService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8081/ProductService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ProductSvr.Model" />
+      <xsd:import schemaLocation="http://localhost:8081/ProductService?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IProductService_ProductAdd_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProductAdd" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_ProductAdd_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProductAddResponse" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_ProductModify_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProductModify" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_ProductModify_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProductModifyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_GetProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProduct" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_GetProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_recordProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:recordProduct" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_recordProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:recordProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_ProductDelete_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProductDelete" />
+  </wsdl:message>
+  <wsdl:message name="IProductService_ProductDelete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProductDeleteResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IProductService">
+    <wsdl:operation name="ProductAdd">
+      <wsdl:input wsaw:Action="http://tempuri.org/IProductService/ProductAdd" message="tns:IProductService_ProductAdd_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IProductService/ProductAddResponse" message="tns:IProductService_ProductAdd_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProductModify">
+      <wsdl:input wsaw:Action="http://tempuri.org/IProductService/ProductModify" message="tns:IProductService_ProductModify_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IProductService/ProductModifyResponse" message="tns:IProductService_ProductModify_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IProductService/GetProduct" message="tns:IProductService_GetProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IProductService/GetProductResponse" message="tns:IProductService_GetProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="recordProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IProductService/recordProduct" message="tns:IProductService_recordProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IProductService/recordProductResponse" message="tns:IProductService_recordProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProductDelete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IProductService/ProductDelete" message="tns:IProductService_ProductDelete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IProductService/ProductDeleteResponse" message="tns:IProductService_ProductDelete_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NetTcpBinding_IProductService" type="tns:IProductService">
+    <wsp:PolicyReference URI="#NetTcpBinding_IProductService_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp" />
+    <wsdl:operation name="ProductAdd">
+      <soap12:operation soapAction="http://tempuri.org/IProductService/ProductAdd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductModify">
+      <soap12:operation soapAction="http://tempuri.org/IProductService/ProductModify" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProduct">
+      <soap12:operation soapAction="http://tempuri.org/IProductService/GetProduct" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recordProduct">
+      <soap12:operation soapAction="http://tempuri.org/IProductService/recordProduct" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductDelete">
+      <soap12:operation soapAction="http://tempuri.org/IProductService/ProductDelete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IProductService" type="tns:IProductService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ProductAdd">
+      <soap:operation soapAction="http://tempuri.org/IProductService/ProductAdd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductModify">
+      <soap:operation soapAction="http://tempuri.org/IProductService/ProductModify" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProduct">
+      <soap:operation soapAction="http://tempuri.org/IProductService/GetProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recordProduct">
+      <soap:operation soapAction="http://tempuri.org/IProductService/recordProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductDelete">
+      <soap:operation soapAction="http://tempuri.org/IProductService/ProductDelete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ProductService">
+    <wsdl:port name="NetTcpBinding_IProductService" binding="tns:NetTcpBinding_IProductService">
+      <soap12:address location="net.tcp://localhost:9091/ProductService" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://localhost:9091/ProductService</wsa10:Address>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IProductService" binding="tns:BasicHttpBinding_IProductService">
+      <soap:address location="http://localhost:8081/ProductService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

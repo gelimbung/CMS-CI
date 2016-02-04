@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="UomService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="NetTcpBinding_IUomService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8081/UomService?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8081/UomService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8081/UomService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ProductSvr.Model" />
+      <xsd:import schemaLocation="http://localhost:8081/UomService?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IUomService_UomAdd_InputMessage">
+    <wsdl:part name="parameters" element="tns:UomAdd" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_UomAdd_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UomAddResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_UomModify_InputMessage">
+    <wsdl:part name="parameters" element="tns:UomModify" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_UomModify_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UomModifyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_UomDelete_InputMessage">
+    <wsdl:part name="parameters" element="tns:UomDelete" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_UomDelete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UomDeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_GetUom_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUom" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_GetUom_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUomResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_RecordUom_InputMessage">
+    <wsdl:part name="parameters" element="tns:RecordUom" />
+  </wsdl:message>
+  <wsdl:message name="IUomService_RecordUom_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RecordUomResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IUomService">
+    <wsdl:operation name="UomAdd">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUomService/UomAdd" message="tns:IUomService_UomAdd_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUomService/UomAddResponse" message="tns:IUomService_UomAdd_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UomModify">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUomService/UomModify" message="tns:IUomService_UomModify_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUomService/UomModifyResponse" message="tns:IUomService_UomModify_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UomDelete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUomService/UomDelete" message="tns:IUomService_UomDelete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUomService/UomDeleteResponse" message="tns:IUomService_UomDelete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUom">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUomService/GetUom" message="tns:IUomService_GetUom_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUomService/GetUomResponse" message="tns:IUomService_GetUom_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RecordUom">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUomService/RecordUom" message="tns:IUomService_RecordUom_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUomService/RecordUomResponse" message="tns:IUomService_RecordUom_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NetTcpBinding_IUomService" type="tns:IUomService">
+    <wsp:PolicyReference URI="#NetTcpBinding_IUomService_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp" />
+    <wsdl:operation name="UomAdd">
+      <soap12:operation soapAction="http://tempuri.org/IUomService/UomAdd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UomModify">
+      <soap12:operation soapAction="http://tempuri.org/IUomService/UomModify" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UomDelete">
+      <soap12:operation soapAction="http://tempuri.org/IUomService/UomDelete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUom">
+      <soap12:operation soapAction="http://tempuri.org/IUomService/GetUom" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RecordUom">
+      <soap12:operation soapAction="http://tempuri.org/IUomService/RecordUom" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IUomService" type="tns:IUomService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UomAdd">
+      <soap:operation soapAction="http://tempuri.org/IUomService/UomAdd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UomModify">
+      <soap:operation soapAction="http://tempuri.org/IUomService/UomModify" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UomDelete">
+      <soap:operation soapAction="http://tempuri.org/IUomService/UomDelete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUom">
+      <soap:operation soapAction="http://tempuri.org/IUomService/GetUom" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RecordUom">
+      <soap:operation soapAction="http://tempuri.org/IUomService/RecordUom" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UomService">
+    <wsdl:port name="NetTcpBinding_IUomService" binding="tns:NetTcpBinding_IUomService">
+      <soap12:address location="net.tcp://localhost:9091/UomService" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://localhost:9091/UomService</wsa10:Address>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IUomService" binding="tns:BasicHttpBinding_IUomService">
+      <soap:address location="http://localhost:8081/UomService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

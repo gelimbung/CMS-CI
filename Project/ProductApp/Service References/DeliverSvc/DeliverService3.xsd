@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ProductSvr.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ProductSvr.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Deliver">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="delivery_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="delivery_id" type="xs:int" />
+      <xs:element minOccurs="0" name="product_id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="room_id" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Deliver" nillable="true" type="tns:Deliver" />
+  <xs:complexType name="ArrayOfDeliverProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DeliverProduct" nillable="true" type="tns:DeliverProduct" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDeliverProduct" nillable="true" type="tns:ArrayOfDeliverProduct" />
+  <xs:complexType name="DeliverProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="delivery_id" type="xs:int" />
+      <xs:element minOccurs="0" name="product_id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="qty" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DeliverProduct" nillable="true" type="tns:DeliverProduct" />
+</xs:schema>

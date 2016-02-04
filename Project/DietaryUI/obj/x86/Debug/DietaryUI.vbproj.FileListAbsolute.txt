@@ -1,0 +1,3 @@
+D:\Source Code\Product Trial\ProductProject\DietaryUI\obj\x86\Debug\DietaryUI.Resources.resources
+D:\Source Code\Product Trial\ProductProject\DietaryUI\obj\x86\Debug\DietaryUI.ModFoodMenu.resources
+D:\Source Code\Product Trial\ProductProject\DietaryUI\obj\x86\Debug\DietaryUI.vbproj.GenerateResource.Cache

@@ -1,0 +1,348 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HmisTemplate
+</name>
+</assembly>
+<members>
+<member name="T:HmisTemplate.dsRiwayatPenyakit.riwayatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.dsRiwayatPenyakit.kiupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.dsRiwayatPenyakit.riwayatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.dsRiwayatPenyakit.kiupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.dsRiwayatPenyakit.riwayatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.dsRiwayatPenyakit.kiupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.dsRiwayatPenyakit">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.ds_KIUP_IRDA.kiup_irdaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_KIUP_IRDA.kiup_irdaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_KIUP_IRDA.kiup_irdaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_KIUP_IRDA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:HmisTemplate.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HmisTemplate.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HmisTemplate.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:HmisTemplate.ds_PengantarBayar.bayarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_PengantarBayar.bayarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_PengantarBayar.bayarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_PengantarBayar">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.ds_RM1.rekam_medikDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_RM1.rekam_medikRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_RM1.rekam_medikRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_RM1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.DataSetFinance.reportKasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSetFinance.reportKasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSetFinance.reportKasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSetFinance">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.ds_Blanko_IRDA.blanko_irdaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_Blanko_IRDA.blanko_irdaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_Blanko_IRDA.blanko_irdaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_Blanko_IRDA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.ds_RestitusiIRNA.restitusiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_RestitusiIRNA.restitusiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_RestitusiIRNA.restitusiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_RestitusiIRNA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataDosageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataObatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapResepDalamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapResepLuarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.detilFormulaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapPerdepoPerTipeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapHargaJualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.penjualanDepoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataNarkotikaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.notaResepDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataLabelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataDosageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataObatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapResepDalamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapResepLuarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.detilFormulaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapPerdepoPerTipeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapHargaJualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.penjualanDepoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataNarkotikaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.notaResepRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataLabelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataDosageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataObatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapResepDalamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapResepLuarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.detilFormulaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapPerdepoPerTipeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.rekapHargaJualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.penjualanDepoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataNarkotikaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.notaResepRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1.dataLabelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.dsKwitansiPembayaran.kwitansiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.dsKwitansiPembayaran.kwitansiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.dsKwitansiPembayaran.kwitansiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.dsKwitansiPembayaran">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.ds_riwayatPenyakitIRNA.riwayat_irnaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_riwayatPenyakitIRNA.riwayat_irnaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_riwayatPenyakitIRNA.riwayat_irnaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_riwayatPenyakitIRNA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.ds_kematian.kematianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.ds_kematian.kematianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.ds_kematian.kematianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.ds_kematian">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HmisTemplate.dsPersediaanSeRSDK.dsPersediaanSeRSDKDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HmisTemplate.dsPersediaanSeRSDK.dsPersediaanSeRSDKRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HmisTemplate.dsPersediaanSeRSDK.dsPersediaanSeRSDKRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HmisTemplate.dsPersediaanSeRSDK">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

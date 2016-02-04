@@ -1,0 +1,11 @@
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductService\bin\Release\ProductService.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductService\bin\Release\ProductService.pdb
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductService\bin\Release\DbLibs.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductService.csprojResolveAssemblyReference.cache
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductService.dll
+E:\RSDK's Documents\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductService.pdb
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductService.csprojResolveAssemblyReference.cache
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductService.dll
+D:\Source Code\Product Trial\ProductProject\ProductService\bin\Release\ProductService.dll
+D:\Source Code\Product Trial\ProductProject\ProductService\bin\Release\ProductService.pdb
+D:\Source Code\Product Trial\ProductProject\ProductService\obj\Release\ProductService.pdb
